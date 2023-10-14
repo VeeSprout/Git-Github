@@ -1,1 +1,2 @@
 # Git-Github
+To fix the bug, I replace the name = "PUT YOUR NAME  and email = 'PUT YOUR EMAIL' in the mine.py file with my full name and email address, saved the file, add it to the staging index using my terminal, then I committed the changes and pushed>
